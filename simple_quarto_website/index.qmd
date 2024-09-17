@@ -1,0 +1,95 @@
+---
+title: "My Professional Website"
+author: "Zixu Hao"
+date: "2024-09-16"
+toc: true
+bibliography: reference.bib
+---
+
+# Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+## Section 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+### Subsection 1.1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+## Section 2
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+### Subsection 2.1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+## Two Columns
+
+::: {.columns}
+::: {.column width="50%"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+::: {.column width="50%"}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+:::
+:::
+
+## Bulleted List
+
+- Item 1
+- Item 2
+- Item 3
+
+## Markdown Table
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+
+## Inline Math
+
+This is an inline math equation: $E = mc^2$.
+
+## Non-inline Math
+
+This is a non-inline math equation:
+$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$
+
+## Footnote
+
+This is a statement with a footnote.
+
+: This is the footnote text.
+
+## Quote
+
+> "This is a professional quote."
+
+## Embedded Images
+
+![Image 1](\images\img1.jpg)
+![Image 2](\images\img2.jpg)
+
+## Embedded Video
+
+![Rydeen](\images\video1.mp4)
+
+## Mermaid Diagram
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+## Citations
+
+In this part, we cited a citation. [@waller2013data].
