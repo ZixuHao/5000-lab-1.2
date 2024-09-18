@@ -63,9 +63,9 @@ $$
 
 ## Footnote
 
-This is a statement with a footnote.
+Here is a footnote reference[^1].
 
-: This is the footnote text.
+[^1]: Here is the footnote.
 
 ## Quote
 
@@ -73,12 +73,12 @@ This is a statement with a footnote.
 
 ## Embedded Images
 
-![Image 1](\images\img1.jpg)
-![Image 2](\images\img2.jpg)
+![Image 1](.\images\img1.jpg)
+![Image 2](.\images\img2.jpg)
 
 ## Embedded Video
 
-![Rydeen](\images\video1.mp4)
+![Rydeen](.\images\video1.mp4)
 
 ## Mermaid Diagram
 

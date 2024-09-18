@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "My Professional Website",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\n\n\nHeader 1\nHeader 2\nHeader 3\n\n\n\n\nRow 1\nData 1\nData 2\n\n\nRow 2\nData 3\nData 4\n\n\n\n\n\n\nThis is an inline math equation: \\(E = mc^2\\).\n\n\n\nThis is a non-inline math equation: \\[\n\\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}\n\\]\n\n\n\n\nThis is a statement with a footnote.\n\nThis is the footnote text.\n\n\n\n\n\n\n“This is a professional quote.”\n\n\n\n\n \n\n\n\n\n\nVideo\nRydeen\n\n\n\n\n\ngraph TD;\n    A--&gt;B;\n    A--&gt;C;\n    B--&gt;D;\n    C--&gt;D;\n\n\n\nIn this part, we cited a citation. (Waller and Fawcett 2013)."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\n\n\n\n\nItem 1\nItem 2\nItem 3\n\n\n\n\n\n\n\nHeader 1\nHeader 2\nHeader 3\n\n\n\n\nRow 1\nData 1\nData 2\n\n\nRow 2\nData 3\nData 4\n\n\n\n\n\n\nThis is an inline math equation: \\(E = mc^2\\).\n\n\n\nThis is a non-inline math equation: \\[\n\\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}\n\\]\n\n\n\nHere is a footnote reference1.\n\n\n\n\n“This is a professional quote.”\n\n\n\n\n \n\n\n\n\n\nVideo\nRydeen\n\n\n\n\n\n\n\n\n\n\ngraph TD;\n    A--&gt;B;\n    A--&gt;C;\n    B--&gt;D;\n    C--&gt;D;\n\n\n\n\n\n\n\n\n\nIn this part, we cited a citation. (Waller and Fawcett 2013)."
   },
   {
     "objectID": "index.html#section-1",
@@ -60,7 +60,7 @@
     "href": "index.html#footnote",
     "title": "My Professional Website",
     "section": "",
-    "text": "This is a statement with a footnote.\n\nThis is the footnote text."
+    "text": "Here is a footnote reference1."
   },
   {
     "objectID": "index.html#quote",
@@ -116,6 +116,13 @@
     "href": "slides/slides.html#slide-3",
     "title": "My Presentation",
     "section": "Slide 3",
-    "text": "Slide 3\nHere is a citation (Waller and Fawcett 2013). ## Slide 4 Here is a Python plot:\n#| code-fold: true\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\nplt.plot(x, y)\nplt.title(\"Sine Wave\")\nplt.show()"
+    "text": "Slide 3\nHere is a citation (Waller and Fawcett 2013). ## Slide 4 Here is a Python plot:\n\n\nCode\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\nplt.plot(x, y)\nplt.title(\"Sine Wave\")\nplt.show()"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "My Professional Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the footnote.↩︎"
   }
 ]
