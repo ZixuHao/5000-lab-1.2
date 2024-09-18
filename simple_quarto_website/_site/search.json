@@ -101,8 +101,8 @@
     "objectID": "slides/slides.html#slide-1",
     "href": "slides/slides.html#slide-1",
     "title": "My Presentation",
-    "section": "",
-    "text": "Welcome to my presentation!"
+    "section": "Slide 1",
+    "text": "Slide 1\nWelcome to my presentation!"
   },
   {
     "objectID": "slides/slides.html#slide-2",
@@ -116,7 +116,7 @@
     "href": "slides/slides.html#slide-3",
     "title": "My Presentation",
     "section": "Slide 3",
-    "text": "Slide 3\nHere is a citation (Waller and Fawcett 2013). ## Slide 4 Here is a Python plot:\n\n\nCode\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\nplt.plot(x, y)\nplt.title(\"Sine Wave\")\nplt.show()"
+    "text": "Slide 3\nHere is a citation (Waller and Fawcett 2013)."
   },
   {
     "objectID": "index.html#footnotes",
@@ -124,5 +124,12 @@
     "title": "My Professional Website",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nHere is the footnote.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-4",
+    "href": "slides/slides.html#slide-4",
+    "title": "My Presentation",
+    "section": "Slide 4",
+    "text": "Slide 4\nHere is a Python plot:\n\n\n\n\n\n\n\n\n\nWaller, Matthew A, and Stanley E Fawcett. 2013. “Data Science, Predictive Analytics, and Big Data: A Revolution That Will Transform Supply Chain Design and Management.” Journal of Business Logistics. Wiley Online Library."
   }
 ]
