@@ -82,7 +82,7 @@ This is a statement with a footnote.
 
 ## Mermaid Diagram
 
-```mermaid
+```{mermaid}
 graph TD;
     A-->B;
     A-->C;
